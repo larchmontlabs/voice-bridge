@@ -217,7 +217,7 @@ keeps getting wrong, such as your project names. They are sent to Deepgram as ke
 You need a Twilio number, a Deepgram key, `cloudflared`, and Python 3.10+.
 
 ```powershell
-git clone https://github.com/ryangalea23/voice-bridge
+git clone https://github.com/larchmontlabs/voice-bridge
 cd voice-bridge
 copy .env.example .env
 ```
