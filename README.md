@@ -46,7 +46,7 @@ the real work off, which is exactly what you want when the only interface you ha
 voice and you are watching the road. Calling a session that is head down in a long build
 just means listening to silence.
 
-That setup is its own repo: [claude-captain](https://github.com/ryangalea23/claude-captain),
+That setup is its own repo: [claude-captain](https://github.com/larchmontlabs/claude-captain),
 the playbook and the tools for running a fleet this way.
 
 You do not need your own coordinator to get this behavior. With `VOICE_COORDINATOR=on`
